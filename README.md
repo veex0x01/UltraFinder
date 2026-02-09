@@ -303,7 +303,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 If you find UltraFinder useful, please consider supporting the development!
 
 <p align="center">
-  <a href="https://www.paypal.com/ncp/payment/KRJ9SS2HJM57J">
+  <a href="">
     <img src="https://img.shields.io/badge/Sponsor-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Sponsor via PayPal">
   </a>
 </p>
@@ -339,3 +339,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <strong>⭐ Star this repo if you find it useful! ⭐</strong>
 </p>
+
