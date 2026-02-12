@@ -309,7 +309,7 @@ If you find UltraFinder useful, please consider supporting the development!
 </p>
 
 <p align="center">
-  <a href="https://www.paypal.com/ncp/payment/KRJ9SS2HJM57J">
+  <a href="https://www.paypal.com/ncp/payment/BNSJG52TFE5B2">
     <strong>☕ Buy me a coffee via PayPal</strong>
   </a>
 </p>
@@ -339,5 +339,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <strong>⭐ Star this repo if you find it useful! ⭐</strong>
 </p>
+
 
 
